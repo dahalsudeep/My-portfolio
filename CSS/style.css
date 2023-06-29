@@ -61,7 +61,7 @@ body {
     height: 100%;
     background: #081b29;
     animation: showDown 1s ease forwards;
-    animation-delay: .8s;
+    animation-delay: .9s;
 }
 .logo {
     position: relative;
@@ -82,7 +82,7 @@ body {
     height: 100%;
     background: #081b29;
     animation: showRight 1s ease forwards;
-    animation-delay: .6s;
+    animation-delay: .2s;
 }
 .logo:hover {
     color: #0ef;
